@@ -1,161 +1,158 @@
-# Advanced Econometrics 1 (4EK608) 
-# Pokročilá ekonometrie 1 (4EK416)
+# Econometria Avançada
 
 --- 
 
-**Course(s) held by:**  
-[Tomas Formanek](https://insis.vse.cz/auth/lide/clovek.pl?id=46723)     
-Department of Econometrics   
-Faculty of Informatics and Statistics  
-University of Economics, Prague  
+**Curso(s) realizado(s) por:**
+[Tomas Formanek](https://insis.vse.cz/auth/lide/clovek.pl?id=46723)
+Departamento de Econometria
+Faculdade de Informática e Estatística
+Universidade de Economia, Praga
 
---- 
+---
 
-### Requirements and classification
+### Requisitos e classificação
 
-+ [Detailed information provided here](./CourseClassification.html)  
-+ [Literature and other supporting materials for the course](./LiteratureSupport.html)  
-+ [Final exam topics](./FinalExam.html)  
++ [Informações detalhadas fornecidas aqui](./CourseClassification.html)
++ [Literatura e outros materiais de apoio para o curso](./LiteratureSupport.html)
++ [Tópicos do exame final](./FinalExam.html)
 
 ---
 
 <!---
-**COVID 19 arrangements**  
-If on-line study is mandated, MS Teams groups will be established for on-line lectures and seminars.  
-Please make sure to install R/Rstudio at home: [R](https://www.r-project.org/) / [RStudio](https://www.rstudio.com/products/RStudio/) 
+**Acordos para a COVID-19**
+Se o estudo on-line for obrigatório, grupos do MS Teams serão estabelecidos para palestras e seminários on-line.
+Certifique-se de instalar o R/Rstudio em casa: [R](https://www.r-project.org/) / [RStudio](https://www.rstudio.com/products/RStudio/)
 ---
----> 
+--->
 
-### Block 1: Estimators and predictions
+### Bloco 1: Estimadores e previsões
 
-+ Repetition from BSc courses  
-+ LRM estimators & non-linear extensions  
-+ Predictions from regression models  
++ Repetição de cursos de BSc
++ Estimadores LRM e extensões não lineares
++ Previsões de modelos de regressão
 
-#### Materials for Block 1  
+#### Materiais para o Bloco 1
 
-+ [Download presentation slides for Block 1](https://github.com/formanektomas/4EK608_4EK416/raw/master/Block1/Block1.pdf)
-+ [Download R scripts for Block 1 (zip)](https://github.com/formanektomas/4EK608_4EK416/raw/master/Block1/Block1.zip)  
-+ [Block 1 - seminar outline ](./Block1.html)
++ [Baixe os slides da apresentação para o Bloco 1](https://github.com/formanektomas/4EK608_4EK416/raw/master/Block1/Block1.pdf)
++ [Baixe os scripts R para o Bloco 1 (zip)](https://github.com/formanektomas/4EK608_4EK416/raw/master/Block1/Block1.zip)
++ [Bloco 1 - esboço do seminário ](./Block1.html)
 
-#### Reading, self-study, and supplementary materials  
-+ Wooldridge, J.: Introductory econometrics, 6th ed.: Chapters 1-5, Appendices C-1 to C-4. (basic topics)  
-+ Greene, W.: Econometric analysis, 7th ed., 8th ed. : Part III Estimation Methodology (text covers numerous advanced topics, many are outside the syllabus of our coursse).  
-+ [An Introduction to Statistical Learning, chapter 5 of the textbook](https://www.statlearning.com/)  
-
-
----
-
-### Block 2: Regression models based on time series
-
-+ Stationarity, cointegration  
-+ Error correction model (ECM)  
-+ Distributed lag models, PAM, AEH  
-
-#### Materials for Block 2  
-
-+ [Download presentation slides for Block 2](https://github.com/formanektomas/4EK608_4EK416/raw/master/Block2/Block2.pdf)
-+ [Download R scripts for Block 2 (zip)](https://github.com/formanektomas/4EK608_4EK416/raw/master/Block2/Block2.zip)  
-+ [Block 2 - seminar outline ](./Block2.html)  
-
-#### Reading, self-study, and supplementary materials  
-+ Wooldridge, J.: Introductory econometrics, 6th ed.: Part 2: Regression Analysis with Time Series Data, ch.10-ch.12. (basic topics) 
-+ Wooldridge, J.: Introductory econometrics, 6th ed.: chapter 18.     
-+ Zivot, E., Wang, J.: Modelling Financial Time Series with S-PLUS, 2nd ed.: chapters 3,4,6 and 12.  
-    
----
-
-### Block 3: Panel data models
-
-+ Panel data  
-+ Short panels: estimators & testing  
-+ Long panels: SURE  
-+ Introduction to large panels & corresponding estimators    
-
-#### Materials for Block 3  
-
-+ [Download presentation slides for Block 3](https://github.com/formanektomas/4EK608_4EK416/raw/master/Block3/Block3.pdf)
-+ [Download R scripts for Block 3 (zip)](https://github.com/formanektomas/4EK608_4EK416/raw/master/Block3/Block3.zip)  
-+ [Block 3 - seminar outline ](./Block3.html)  
- 
-#### Reading, self-study, and supplementary materials  
-+ Wooldridge, J.: Introductory econometrics, 6th ed.: Part 3, ch.13 and ch.14. (basic topics)  
-+ Greene, W.: Econometric analysis, 7th ed., 8th ed. : ch. 11 - Models for panel data    
-+ [PhD-level course on panel data from NYU](http://people.stern.nyu.edu/wgreene/Econometrics/PanelDataEconometrics.htm)  
+#### Leitura, autoestudo e materiais complementares
++ Wooldridge, J.: Econometria introdutória, 6ª ed.: Capítulos 1-5, Apêndices C-1 a C-4. (tópicos básicos)
++ Greene, W.: Análise econométrica, 7ª ed., 8ª ed.: Parte III Metodologia de estimativa (o texto abrange vários tópicos avançados, muitos estão fora do programa do nosso curso).
++ [Uma introdução ao aprendizado estatístico, capítulo 5 do livro didático](https://www.statlearning.com/)
 
 ---
 
-### Block 4: Instrumental variable regression and simultaneous equation models
+### Bloco 2: Modelos de regressão baseados em séries temporais
 
-+ Instrumental variables, IVR  
-+ Identification  
-+ Simultaneous equation models (SEMs)  
++ Estacionariedade, cointegração
++ Modelo de correção de erros (ECM)
++ Modelos de defasagem distribuída, PAM, AEH
 
-#### Materials for Block 4  
+#### Materiais para o Bloco 2
 
-+ [Download presentation slides for Block 4](https://github.com/formanektomas/4EK608_4EK416/raw/master/Block4/Block4.pdf)  
-+ [Download R scripts for Block 4 (zip)](https://github.com/formanektomas/4EK608_4EK416/raw/master/Block4/Block4.zip)  
-+ [Block 4 - seminar outline ](./Block4.html)  
++ [Baixe os slides da apresentação para o Bloco 2](https://github.com/formanektomas/4EK608_4EK416/raw/master/Block2/Block2.pdf)
++ [Baixe os scripts R para o Bloco 2 (zip)](https://github.com/formanektomas/4EK608_4EK416/raw/master/Block2/Block2.zip)
++ [Bloco 2 - esboço do seminário ](./Block2.html)
 
-#### Reading, self-study, and supplementary materials  
-+ Wooldridge, J.: Introductory econometrics, 6th ed.: Part 3, ch.15 and ch.16. (basic topics)  
-+ Greene, W.: Econometric analysis, 7th ed., 8th ed. : ch. 8 - Endogeneity and Instrumental Variable Estimation
-+ Greene, W.: Econometric analysis, 7th ed., 8th ed. : ch. 10 - Systems of Equations
-  
----
-
-### Block 5: Vector autoregression (VAR) models 
-
-+ VAR models
-+ Impulse-response functions (IRFs)  
-+ Vector error correction models (VECMs)  
-
-#### Materials for Block 5  
-
-+ [Download presentation slides for Block 5](https://github.com/formanektomas/4EK608_4EK416/raw/master/Block5/Block5.pdf)  
-+ [Download R scripts for Block 5 (zip)](https://github.com/formanektomas/4EK608_4EK416/raw/master/Block5/Block5.zip)  
-+ [Block 5 - seminar outline ](./Block5.html)  
-
-#### Reading, self-study, and supplementary materials  
-+ Zivot, E., & Wang, J. Modelling Financial Time Series with S-PLUS, ch. 11 - VAR models for multivariate time series  
-+ Zivot, E., & Wang, J. Modelling Financial Time Series with S-PLUS, ch. 12 - Cointegration  
+#### Leitura, autoestudo e materiais complementares
++ Wooldridge, J.: Econometria introdutória, 6ª ed.: Parte 2: Análise de regressão com dados de séries temporais, cap.10-cap.12. (tópicos básicos)
++ Wooldridge, J.: Econometria introdutória, 6ª ed.: capítulo 18.
++ Zivot, E., Wang, J.: Modelagem de séries temporais financeiras com S-PLUS, 2ª ed.: capítulos 3,4,6 e 12.
 
 ---
 
-### Block 6: Limited dependent variables (LDVs) - repetition from BSc. courses
+### Bloco 3: Modelos de dados em painel
 
-Not in the syllabus of 4EK416 / 4EK608 course (topic moved to BSc. courses)  
-Material intended for self-study and preparation for state exams
++ Dados em painel
++ Painéis curtos: estimadores e testes
++ Painéis longos: SURE
++ Introdução a painéis grandes e estimadores correspondentes
 
-+ Binary dependent variables  
-+ Count dependent variables  
-+ Multinomial dependent variables (unordered, ordered)  
-+ Other types of LDVs (corner solution, censored, truncated data)  
+#### Materiais para o Bloco 3
 
-#### Materials for Block 6  
++ [Baixe os slides da apresentação para o Bloco 3](https://github.com/formanektomas/4EK608_4EK416/raw/master/Block3/Block3.pdf)
++ [Baixe os scripts R para o Bloco 3 (zip)](https://github.com/formanektomas/4EK608_4EK416/raw/master/Block3/Block3.zip)
++ [Bloco 3 - esboço do seminário ](./Block3.html)
 
-+ [Download presentation slides for Block 6](https://github.com/formanektomas/4EK608_4EK416/raw/master/Block6/Block6.pdf)  
-+ [Download R scripts for Block 6 (zip)](https://github.com/formanektomas/4EK608_4EK416/raw/master/Block6/Block6.zip)  
-+ [Block 6 - seminar outline ](./Block6.html)  
-
-#### Reading, self-study, and supplementary materials  
-+ Wooldridge, J.: Introductory econometrics, 6th ed.: Part 3, ch.17. (basic topics)  
-
----  
-
-Please note that lectures (pdf presentations) and seminar workfiles (R scripts) can be updated without prior notice:  
-* clarifications, small edits and error corrections are made often,
-* as R packages are updated, syntax of various command and functions can change.
-
+#### Leitura, autoestudo e materiais complementares
++ Wooldridge, J.: Econometria introdutória, 6ª ed.: Parte 3, cap. 13 e cap. 14. (tópicos básicos)
++ Greene, W.: Análise econométrica, 7ª ed., 8ª ed. : cap. 11 - Modelos para dados em painel
++ [Curso de nível de doutorado sobre dados em painel da NYU](http://people.stern.nyu.edu/wgreene/Econometrics/PanelDataEconometrics.htm)
 
 ---
 
-#### Support materials & R help
+### Bloco 4: Regressão de variável instrumental e modelos de equações simultâneas
 
-- Install R/Rstudio at home: [R](https://www.r-project.org/) / [RStudio](https://www.rstudio.com/products/RStudio/)  
-- Setup a convenient R working directory - eg. `RWD` folder on your desktop. [Instructions](https://support.rstudio.com/hc/en-us/articles/200711843-Working-Directories-and-Workspaces)  
-- For help, you can use [stackoverflow](https://stackoverflow.com/tags/r/info) - note the `[r]` in question box.  
++ Variáveis ​​instrumentais, IVR
++ Identificação
++ Modelos de equações simultâneas (SEMs)
+
+#### Materiais para o Bloco 4
+
++ [Baixar slides de apresentação para o Bloco 4](https://github.com/formanektomas/4EK608_4EK416/raw/master/Block4/Block4.pdf)
++ [Baixar scripts R para o Bloco 4 (zip)](https://github.com/formanektomas/4EK608_4EK416/raw/master/Block4/Block4.zip)
++ [Bloco 4 - esboço do seminário ](./Block4.html)
+
+#### Leitura, autoestudo e materiais complementares
++ Wooldridge, J.: Econometria introdutória, 6ª ed.: Parte 3, cap.15 e cap.16. (tópicos básicos)
++ Greene, W.: Análise econométrica, 7ª ed., 8ª ed. : cap. 8 - Endogeneidade e estimativa de variáveis ​​instrumentais
++ Greene, W.: Análise econométrica, 7ª ed., 8ª ed. : cap. 10 - Sistemas de equações
 
 ---
 
-[Homepage](https://formanektomas.github.io/4EK608_4EK416/)
+### Bloco 5: Modelos de autorregressão vetorial (VAR)
+
++ Modelos VAR
++ Funções de impulso-resposta (IRFs)
++ Modelos de correção de erro vetorial (VECMs)
+
+#### Materiais para o Bloco 5
+
++ [Baixe os slides de apresentação para o Bloco 5](https://github.com/formanektomas/4EK608_4EK416/raw/master/Block5/Block5.pdf)
++ [Baixe os scripts R para o Bloco 5 (zip)](https://github.com/formanektomas/4EK608_4EK416/raw/master/Block5/Block5.zip)
++ [Bloco 5 - esboço do seminário ](./Block5.html)
+
+#### Leitura, autoestudo e materiais complementares
++ Zivot, E., & Wang, J. Modelagem de séries temporais financeiras com S-PLUS, cap. 11 - Modelos VAR para séries temporais multivariadas
++ Zivot, E., & Wang, J. Modelagem de séries temporais financeiras com S-PLUS, cap. 12 - Cointegração
+
+---
+
+### Bloco 6: Variáveis ​​dependentes limitadas (VDLs) - repetição do Bacharelado. cursos
+
+Não está no programa do curso 4EK416 / 4EK608 (tópico movido para cursos de bacharelado)
+Material destinado ao autoestudo e preparação para exames estaduais
+
++ Variáveis ​​dependentes binárias
++ Contar variáveis ​​dependentes
++ Variáveis ​​dependentes multinomiais (não ordenadas, ordenadas)
++ Outros tipos de LDVs (solução de canto, censurados, dados truncados)
+
+#### Materiais para o Bloco 6
+
++ [Baixar slides de apresentação para o Bloco 6](https://github.com/formanektomas/4EK608_4EK416/raw/master/Block6/Block6.pdf)
++ [Baixar scripts R para o Bloco 6 (zip)](https://github.com/formanektomas/4EK608_4EK416/raw/master/Block6/Block6.zip)
++ [Bloco 6 - esboço do seminário ](./Block6.html)
+
+#### Leitura, autoestudo e materiais complementares
++ Wooldridge, J.: Econometria introdutória, 6ª ed.: Parte 3, cap.17. (tópicos básicos)
+
+---
+
+Observe que as palestras (apresentações em PDF) e os arquivos de trabalho do seminário (scripts R) podem ser atualizados sem aviso prévio:
+* esclarecimentos, pequenas edições e correções de erros são feitos com frequência,
+* conforme os pacotes R são atualizados, a sintaxe de vários comandos e funções pode mudar.
+
+---
+
+#### Materiais de suporte e ajuda do R
+
+- Instale o R/Rstudio em casa: [R](https://www.r-project.org/) / [RStudio](https://www.rstudio.com/products/RStudio/)
+- Configure um diretório de trabalho R conveniente - por exemplo, pasta `RWD` na sua área de trabalho. [Instruções](https://support.rstudio.com/hc/en-us/articles/200711843-Working-Directories-and-Workspaces)
+- Para obter ajuda, você pode usar [stackoverflow](https://stackoverflow.com/tags/r/info) - observe o `[r]` na caixa de perguntas.
+
+---
+
+[Homepage](https://github.com/jr1056/Greene/)

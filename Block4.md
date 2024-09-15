@@ -1,50 +1,50 @@
-## Block 4 presentation and R scripts  
+## Bloco 4 apresentação e Roteiros do R  
 
-+ [Download presentation slides for Block 5](https://github.com/formanektomas/4EK608_4EK416/raw/master/Block4/Block4.pdf)
-+ [Download R scripts for Block 5 (zip) ](https://github.com/formanektomas/4EK608_4EK416/raw/master/Block4/Block4.zip)
++ [Descarregar as diapositivas de apresentação para o Bloco 4](https://github.com/jr1056/Greene/tree/master/Block4/Block4.pdf)
++ [Descarregar os roteiros em R para o Bloco 4 (zipado)](https://github.com/jr1056/Greene/tree/master/Block4/Block4.zip)
 
 --- 
 
-### R scripts for seminars - outline of Block 4
+### Roteiros do R para os seminários - esquema do Bloco 4
 
 **1) IVR_mroz.R**
-+ Wooldridge: Introductory Econometrics, 5th Edition, Example 15.1, 15.5, 15.7  
-+ Aim: discussion of instrumental variable, comparison of OLS and IV estimator, 2SLS estimator, testing for endogeneity  
++ Wooldridge: Econometria Introdutória, 5ª Edição, Exemplo 15.1, 15.5, 15.7
++ Objetivo: discussão da variável instrumental, comparação do estimador OLS e IV, estimador 2SLS, teste de endogeneidade
 
-**2) IVR_wage2.R**  
-+ Wooldridge: Introductory Econometrics, 5th Edition, Example 15.2  
-+ Aim: discussion of instrumental variable, comparison of OLS and IV estimator  
+**2) IVR_wage2.R**
++ Wooldridge: Econometria Introdutória, 5ª Edição, Exemplo 15.2
++ Objetivo: discussão da variável instrumental, comparação do estimador OLS e IV
 
-**3) IVR_bwght.R**  
-+Wooldridge: Introductory Econometrics, 5th Edition, Example 15.3  
-+ Aim: discussion of instrumental variable, comparison of OLS and IV estimator  
+**3) IVR_bwght.R**
++Wooldridge: Econometria Introdutória, 5ª Edição, Exemplo 15.3
++ Objetivo: discussão da variável instrumental, comparação do estimador OLS e IV
 
-**4) IVR_card.R**  
-+ Wooldridge: Introductory Econometrics, 5th Edition, Example 15.4  
-+ Aim: discussion of instrumental variable, comparison of OLS and IV estimator  
+**4) IVR_card.R**
++ Wooldridge: Econometria Introdutória, 5ª Edição, Exemplo 15.4
++ Objetivo: discussão da variável instrumental variável, comparação de OLS e estimador IV
 
-**5) SEM_mroz.R**  
-+ Wooldridge: Introductory Econometrics, 5th Edition, Example 16.3, 16.5, Computer excercise C16.2  
-+ Aim: estimation of an SEM model,  endogeneity of regressors, interpretation of estimated coefficients  
+**5) SEM_mroz.R**
++ Wooldridge: Econometria Introdutória, 5ª Edição, Exemplo 16.3, 16.5, Exercício de computador C16.2
++ Objetivo: estimativa de um modelo SEM, endogeneidade de regressores, interpretação de coeficientes estimados
 
-**6) SEM_openness.R**  
-+ Wooldridge: Introductory Econometrics, 5th Edition, Example 16.4, 16.6, Computer excercise C16.3  
-+ Aim: estimation of an SEM model,  endogeneity of regressors, interpretation of estimated coefficients  
-
---- 
-
-### Seminar & self-study R scripts for Block 4
-
-**IVRvsOLS.qmd**  
-+ Cameron and Trivedi, Microeconometrics, 2005, amended from Example 4.8.8.
-+ Aim: Compare finite sample and asymptotic properties of OLS and IVR estimators with an endogenous regressors (based on simulated data)      
-
-**SEM_gas.R**  
-+ Aim: SEMs specification and identification of individual equations    
-
-**SEM_Klein.R**  
-+ Aim: Estimation of the Klein (1950) model "Model I"     
+**6) SEM_openness.R**
++ Wooldridge: Econometria Introdutória, 5ª Edição, Exemplo 16.4, 16.6, Exercício de computador C16.3
++ Objetivo: estimativa de um modelo SEM, endogeneidade de regressores, interpretação de coeficientes estimados
 
 ---
 
-[Homepage](https://formanektomas.github.io/4EK608_4EK416/)
+### Scripts de R de seminário e autoestudo para o Bloco 4
+
+**IVRvsOLS.qmd**
++ Cameron e Trivedi, Microeconometria, 2005, alterado do Exemplo 4.8.8.
++ Objetivo: Comparar amostra finita e propriedades assintóticas de estimadores OLS e IVR com regressores endógenos (com base em dados simulados)
+
+**SEM_gas.R**
++ Objetivo: Especificação de SEMs e identificação de equações individuais
+
+**SEM_Klein.R**
++ Objetivo: Estimativa do modelo Klein (1950) "Modelo I"
+
+---
+
+[Homepage](https://github.com/jr1056/Greene/)

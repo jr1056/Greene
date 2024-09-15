@@ -1,31 +1,30 @@
-## Block 5 presentation and R scripts  
+## Bloco 5 apresentação e Roteiros do R   
 
-+ [Download presentation slides for Block 5](https://github.com/formanektomas/4EK608_4EK416/raw/master/Block5/Block5.pdf)
-+ [Download R scripts for Block 5 (zip) ](https://github.com/formanektomas/4EK608_4EK416/raw/master/Block5/Block5.zip)
++ [Descarregar as diapositivas de apresentação para o Bloco 5](https://github.com/jr1056/Greene/tree/master/Block5/Block5.pdf)
++ [Descarregar os roteiros em R para o Bloco 5 (zipado)](https://github.com/jr1056/Greene/tree/master/Block5/Block5.zip)
 
 --- 
 
-### R scripts for seminars - outline of Block 5
+### Roteiros do R para os seminários - esquema do Bloco 5
 
 **1) VAR_Currency.R**
-+ EViews Illustrated, follow Chapter 14 "VAR",
-+ Aim: VAR models - construction, testing, IRFs, forecasts  
++ EViews Illustrated, siga o Capítulo 14 "VAR",
++ Objetivo: modelos VAR - construção, teste, IRFs, previsões
 
-**2) Phillips_AT.R**  
-+ Aim: VAR, IRFs  
+**2) Phillips_AT.R**
++ Objetivo: VAR, IRFs
 
-**3) EUmacrodata.R**  
-+ Aim: cointegration, VEC models  
-
-
---- 
-
-### Seminar & self-study R scripts for Block 5
-
-**var1.R**  
-+ EViews User Guide, selected topics from Chapter 18, Vector Autoregression and Error Correction Models  
-+ Aim: VARs & IRFs - using non-stationary vs. stationary data   
+**3) EUmacrodata.R**
++ Objetivo: cointegração, modelos VEC
 
 ---
 
-[Homepage](https://formanektomas.github.io/4EK608_4EK416/)
+### Scripts R de seminário e autoestudo para o Bloco 5
+
+**var1.R**
++ Guia do usuário EViews, tópicos selecionados do Capítulo 18, Modelos de autorregressão vetorial e correção de erros
++ Objetivo: VARs e IRFs - usando dados não estacionários vs. estacionários   
+
+---
+
+[Homepage](https://github.com/jr1056/Greene/)

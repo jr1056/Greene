@@ -1,44 +1,44 @@
-## Block 6 presentation and R scripts  
+## Bloco 5 apresentação e Roteiros do R  
 
-Repetition from BSc. courses.  
-Intended for self-study and preparation for the state exam  
+Repetição de cursos de Bacharelado
+Destinado ao autoestudo e preparação para o ENADE
 
-+ [Download presentation slides for Block 6](https://github.com/formanektomas/4EK608_4EK416/raw/master/Block6/Block6.pdf)
-+ [Download R scripts for Block 6 (zip) ](https://github.com/formanektomas/4EK608_4EK416/raw/master/Block6/Block6.zip)
++ [Descarregar as diapositivas de apresentação para o Bloco 6](https://github.com/jr1056/Greene/tree/master/Block6/Block6.pdf)
++ [Descarregar os roteiros em R para o Bloco 6 (zipado)](https://github.com/jr1056/Greene/tree/master/Block6/Block6.zip)
 
 --- 
 
-### R scripts for seminars - outline of Block 6
+### Roteiros do R para os seminários - esquema do Bloco 6
 
 **1) Binary_psi.R**
-+ EViews Use Guide II, follow Chapter 9 "Discrete and Limited Dependent Variable Models"
-+ Aim: Logit estimation and plotting probability response curve
++ Guia de uso do EViews II, siga o Capítulo 9 "Modelos de variáveis ​​dependentes discretas e limitadas"
++ Objetivo: Estimativa logit e plotagem da curva de resposta de probabilidade
 
-**2) Binary_DVs.R**  
-+  Binary dependent variable models, LPM, logit, probit, predictions, APE, PEA, model evaluation, confusion matrix, ROC.
+**2) Binary_DVs.R**
++ Modelos de variáveis ​​dependentes binárias, LPM, logit, probit, previsões, APE, PEA, avaliação de modelo, matriz de confusão, ROC.
 
-**3) Count_crime1.R**  
-+ Wooldridge 5th Edition,  Example 17.3  
-+ Aim: Count data models, Poisson, NB and Zero Inflated models  
+**3) Count_crime1.R**
++ Wooldridge 5ª edição, Exemplo 17.3
++ Objetivo: Modelos de dados de contagem, Poisson, NB e modelos inflacionados por zeros
 
-**4) Unordered_MNL.R**  
-+ Aim: Multinomial dependent variables: unordered  
+**4) Unordered_MNL.R**
++ Objetivo: Variáveis ​​dependentes multinomiais: não ordenadas
 
-**5) Ordered_MNL.R**  
-+ Aim: Multinomial dependent variables: ordered  
+**5) Ordered_MNL.R**
++ Objetivo: Variáveis ​​dependentes multinomiais: ordenadas
 
-**6) Tobit.R**  
-+ Wooldridge 5th Edition,  Example 17.2  
-+ Aim: Tobit model  
+**6) Tobit.R**
++ Wooldridge 5ª edição, Exemplo 17.2
++ Objetivo: Modelo Tobit
 
-**7) Censored_data.R**  
-+ Wooldridge 5th Edition,  Example 17.4  
-+ Aim: Censored regression  
+**7) Censored_data.R**
++ Wooldridge 5ª edição, Exemplo 17.4
++ Objetivo: Regressão censurada
 
-**8) Heckit.R**  
-+ Wooldridge 5th Edition,  Example 17.5  
-+ Aim: Sample selection correction - Heckit model  
+**8) Heckit.R**
++ Wooldridge 5ª edição, Exemplo 17.5
++ Objetivo: Correção da seleção de amostra - modelo Heckit  
 
 ---
 
-[Homepage](https://formanektomas.github.io/4EK608_4EK416/)
+[Homepage](https://github.com/jr1056/Greene/)

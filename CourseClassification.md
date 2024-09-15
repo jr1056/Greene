@@ -2,34 +2,34 @@
 layout: default
 ---
 
-## Classification – points (max. 100 points)
+## Classificação – pontos (máx. 100 pontos)
 
-* Home assignments: max 20 points (4 assignments, 5 points each).  
-* Midterm tests: max. 30 points (5 short written tests, 6 points each)  
-* Final exam (written test): max. 50 points  
-
---- 
-
-Grading scale
-
-     90+     points: excellent (1)
-     75 – 89 points: very good (2)
-     60 – 74 points: good (3)
-      0 – 59 points: failed (4)
+* Tarefas de casa: máx. 20 pontos (4 tarefas, 5 pontos cada).
+* Testes de meio do ano: máx. 30 pontos (5 testes escritos curtos, 6 pontos cada)
+* Exame final (teste escrito): máx. 50 pontos
 
 ---
 
-**Important dates**  
+Escala de notas
 
-+ 5 short midterm tests are written at conveniently chosen lectures.  
-    + Usually, midterm tests will be written on a bi-weekly basis (3rd week, 5th week, etc....).  
-    + Midterm tests are mostly based on topics covered during the previous 2 weeks.  
-    + If you miss a midterm test (properly reported medical absence only), there will be a special term during the 13th week.  
+90+ pontos: excelente (1)
+75 – 89 pontos: muito bom (2)
+60 – 74 pontos: bom (3)
+0 – 59 pontos: reprovado (4)
 
-     **Special term for the midterm tests (properly reported absences only):**  
-     **Wed, 11. December, 2PM-3PM, NB432.**  
+---
 
-+ Final exam - multiple dates during the exam period: see InSIS  
+**Datas importantes**
+
++ 5 testes curtos de meio do ano são feitos em palestras convenientemente escolhidas.
++ Normalmente, os testes de meio do ano serão feitos quinzenalmente (3ª semana, 5ª semana, etc....).
++ Os testes de meio do ano são baseados principalmente em tópicos abordados nas 2 semanas anteriores.
++ Se você perder um teste de meio do ano (somente ausência médica devidamente relatada), haverá um período especial durante a 13ª semana.
+
+**Período especial para os testes de meio do ano (somente ausências devidamente relatadas):**
+**Segunda dezena de dezembro**
+
++ Exame final - várias datas durante o período de exame: consulte o Calendário Acadêmico
 
 ---
 

@@ -1,40 +1,40 @@
-## Block 3 presentation and R scripts  
+## Bloco 3 apresentação e Roteiros do R
 
-+ [Download presentation slides for Block 3](https://github.com/formanektomas/4EK608_4EK416/raw/master/Block3/Block3.pdf)
-+ [Download R scripts for Block 3 (zip) ](https://github.com/formanektomas/4EK608_4EK416/raw/master/Block3/Block3.zip)
++ [Descarregar as diapositivas da apresentação para o Bloco 3](https://github.com/jr1056/Greene/tree/master/Block3/Block3.pdf)
++ [Descarregar os roteitos R para o Bloco 3 (zipado) ](https://github.com/jr1056/Greene/tree/master/Block3/Block3.zip)
 
 --- 
 
-### R scripts for seminars - outline of Block 3
+### Roteiros R para os seminários - esboço do Bloco 3
 
 **1) FD_ezunem.R**
-+ Wooldridge 5th Edition, Example 13.8
-+ Aim: FD estimator
++ Wooldridge 5ª Edição, Exemplo 13.8
++ Objetivo: estimador FD
 
-**2) FE_RE_wagepan.R**  
-+ Wooldridge 5th Edition, Example 14.2, 14.4
-+ Aim: FE with time invariant regressors, comparison of Pooled OLS, FE and RE estimators, testing
+**2) FE_RE_salário.R**  
++ Wooldridge 5ª Edição, Exemplo 14.2, 14.4
++ Objetivo: FE com regressores invariantes no tempo, comparação de Pooled OLS, estimadores FE e RE, teste
 
 **3) CRE_airfare.R**  
-+ Wooldridge 5th Edition, Computer exercises for chapter 14 (C10, C14)  
-+ Aim: Correlated Random Effects  
++ Wooldridge 5ª Edição, Exercícios de computador para o capítulo 14 (C10, C14)  
++ Objetivo: efeitos aleatórios correlacionados  
 
 **4) DynamicPanel.R**  
-+ Based on `{plm}` sample data
-+ Aim: Dynamic panels & Arellano-Bond estimator  
++ Baseado em dados de amostra `{plm}`
++ Objetivo: Painéis dinâmicos e estimador Arellano-Bond  
 
-**5) SURE.Rmd**  
-+ Greene, Econometric Analysis (7th ed., 8th ed.), Example 10.1
-+ Aim: Long panels and the SURE approach  
+**5) CERTO.Rmd**  
++ Greene, Análise Econométrica (7ª ed., 8ª ed.), Exemplo 10.1
++ Objetivo: Painéis longos e a abordagem SURE  
 
 --- 
 
-### Seminar & self-study R scripts for Block 3
+### Seminário e scripts R de auto-estudo para o Bloco 3
 
 + **Jtrain.R**  
-    + Wooldridge 6th Edition,  Example 14.1.
-    + Aim: FE estimator, basic model evaluation/testing and interpretation.  
+    + Wooldridge 6ª Edição, Exemplo 14.1.
+    + Objetivo: estimador FE, avaliação/teste e interpretação do modelo básico.  
 
 ---
 
-[Homepage](https://formanektomas.github.io/4EK608_4EK416/)
+[Homepage](https://github.com/jr1056/Greene)
