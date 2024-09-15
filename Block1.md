@@ -1,7 +1,7 @@
 ## Bloco 1 apresentação e Roteiros do R  
 
-+ [Descarregar as diapositivas de apresentação para o Bloco 1](https://github.com/formanektomas/4EK608_4EK416/raw/master/Block1/Block1.pdf)
-+ [Descarregar os roteiros em R para o Bloco 1 (zip)](https://github.com/formanektomas/4EK608_4EK416/raw/master/Block1/Block1.zip)
++ [Descarregar as diapositivas de apresentação para o Bloco 1](https://github.com/jr1056/Greene/tree/master/Block1/Block1.pdf)
++ [Descarregar os roteiros em R para o Bloco 1 (zip)](https://github.com/jr1056/Greene/tree/master/Block1/Block1.zip)
 
 --- 
 
@@ -9,33 +9,33 @@
 
 **1) Attend.Rmd**
 + [Wooldridge 5ª Edição], Exemplo 6.3  
-+ Aim: repetition of models with CS data, interaction elements, marginal effects and their standard errors (reparametrization, Delta method).  
++ Objetivo: repetição de modelos com dados CS, elementos de interação, efeitos marginais e seus erros padrão (reparametrização, método Delta).  
 
-**2) GMM_Estimation.R**
+**2) Estimativa_GMM.R**
 + baseado em: Wooldridge, Eonometria Introdutória, (5ª ed.) Exemplo 10.9  
-+ Aim:  MM estimation, GMM estimation of linear models  
++ Objetivo: estimativa MM, estimativa GMM de modelos lineares  
 
 **3) MLE_Example.R**
-+ Aim: manual estimation of SLRM coefficients using MLE, illustrative example  
++ Objetivo: estimativa manual de coeficientes SLRM usando MLE, exemplo ilustrativo  
 
 **4) OLS_NLRM_Cons.R**  
-+ Greene: Econometric Analysis (5th ed., 2002), pages 171-173  
-+ Aim: Aggregate consumption, OLS vs NLRM  
++ Greene: Análise Econométrica (5ª ed., 2002), páginas 171-173  
++ Objetivo: Consumo agregado, OLS vs NLRM  
 
 **5) OLS_LAD_QREG.R**   
-+ based on /expanded/ example: Wooldridge, Introductory Econometrics, (5th ed.) Example 9.10  
-+ based on Greene, 7.10  
-+ Aim:  OLS vs LAD, Quantile regression  
++ baseado em /expandido/ exemplo: Wooldridge, Introductory Econometrics, (5ª ed.) Exemplo 9.10  
++ baseado em Greene, 7,10  
++ Objetivo: OLS vs LAD, regressão quantílica  
 
 **6) kFCV.Rmd**  
-+ Aim: Compare predictive properties of different models using the k-Fold Cross Validation method  
++ Objetivo: Comparar propriedades preditivas de diferentes modelos usando o método k-Fold Cross Validation  
 
 **7) Bootstrap.R**  
-+ Aim: Simple applications (examples) of the bootstrap method   
++ Objetivo: Aplicações simples (exemplos) do método bootstrap   
 
 **8) Monte_Carlo.Rmd**
-+ Aim:  Small-sample properties of DW and BG tests, test power evaluation through simulations. 
++ Objetivo: Propriedades de amostras pequenas de testes DW e BG, avaliação de potência de teste através de simulações.
 
 ---  
 
-[Homepage](https://formanektomas.github.io/4EK608_4EK416/)
+[Homepage](https://github.com/jr1056/Greene/)
