@@ -1,7 +1,7 @@
 ## Bloco 1 apresentação e Roteiros do R  
 
 + [Descarregar as diapositivas de apresentação para o Bloco 1](https://github.com/jr1056/Greene/tree/master/Block1/Block1.pdf)
-+ [Descarregar os roteiros em R para o Bloco 1 (zip)](https://github.com/jr1056/Greene/tree/master/Block1/Block1.zip)
++ [Descarregar os roteiros em R para o Bloco 1 (zipado)](https://github.com/jr1056/Greene/tree/master/Block1/Block1.zip)
 
 --- 
 

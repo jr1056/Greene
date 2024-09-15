@@ -1,11 +1,11 @@
-## Block 2 presentation and R scripts  
+## Bloco 2 apresentação e Roteiros do R
 
-+ [Download presentation slides for Block 2](https://github.com/jr1056/Greene/tree/master/Block2/Block2.pdf)
-+ [Download R scripts for Block 2 (zip) ](https://github.com/jr1056/Greene/tree/master/Block2/Block2.zip)
++ [Descarregar as Diapositivas da apresentação para o Bloco 2](https://github.com/jr1056/Greene/tree/master/Block2/Block2.pdf)
++ [Descarregar os roteiros do R para o Bloco 2 (zipado)a ](https://github.com/jr1056/Greene/tree/master/Block2/Block2.zip)
 
 --- 
 
-### Scripts R para seminários - esboço do Bloco 2
+### Roteiros do R para os seminários - esboço do Bloco 2
 
 **1) Phillips.R**
 + Wooldridge 5ª Edição, Exemplo 10.1, Exemplo 11.5, Exemplo 12.1, Exemplo 12.5  
