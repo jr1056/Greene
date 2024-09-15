@@ -1,59 +1,59 @@
 ## Block 2 presentation and R scripts  
 
-+ [Download presentation slides for Block 2](https://github.com/formanektomas/4EK608_4EK416/raw/master/Block2/Block2.pdf)
-+ [Download R scripts for Block 2 (zip) ](https://github.com/formanektomas/4EK608_4EK416/raw/master/Block2/Block2.zip)
++ [Download presentation slides for Block 2](https://github.com/jr1056/Greene/tree/master/Block2/Block2.pdf)
++ [Download R scripts for Block 2 (zip) ](https://github.com/jr1056/Greene/tree/master/Block2/Block2.zip)
 
 --- 
 
-### R scripts for seminars - outline of Block 2
+### Scripts R para seminários - esboço do Bloco 2
 
 **1) Phillips.R**
-+ Wooldridge 5th Edition, Example 10.1, Example 11.5, Example 12.1, Example 12.5  
-+ Aim: repetition of TS-based LRMs. Expectations augmented Phillips curve, adaptive expectations, testing of serial correlation, FGLS in the case of serial correlation, Cochrane-Orcutt and Prais-Winsten transformation  
++ Wooldridge 5ª Edição, Exemplo 10.1, Exemplo 11.5, Exemplo 12.1, Exemplo 12.5  
++ Objetivo: repetição de LRMs baseados em TS. Expectativas aumentadas, curva de Phillips, expectativas adaptativas, teste de correlação serial, FGLS no caso de correlação serial, transformação de Cochrane-Orcutt e Prais-Winsten  
 
-**2) Spurious.R**  
-+ Aim: spurious regression example, cointegration tests  
+**2) Espúrio.R**  
++ Objetivo: exemplo de regressão espúria, testes de cointegração  
 
 **3) DF_ADF_tests.Rmd**  
-+ Aim: unit root tests  
++ Objetivo: testes de raiz unitária  
 
 **4) Intqrt.R**  
-+ Wooldridge 5th Edition,  Example 18.2,  Example 18.6,  Example 18.7  
-+ Aim: unit root tests, cointegration tests, ECM
++ Wooldridge 5ª Edição, Exemplo 18.2, Exemplo 18.6, Exemplo 18.7  
++ Objetivo: testes de raiz unitária, testes de cointegração, ECM
 
 **5) Chow_test.R**  
-+ Aim: Chow 1 test statistic  
++ Objetivo: estatística de teste Chow 1  
 
-**6) Currency.R**
-+ Aim: static and dynamic forecasts (follows EViews Illustrated, Chapter 8)  
+**6) Moeda.R**
++ Objetivo: previsões estáticas e dinâmicas (segue EViews Illustrated, Capítulo 8)  
 
-**7) Almon.Rmd**  
-+ Aim: estimation of models containing PDLs
+**7) Amêndoa.Rmd**  
++ Objetivo: estimação de modelos contendo PDLs
 
-**8)  Hseinv.R**  
-+ Wooldridge 5th Edition,  Example 18.1  
-+ Aim: Estimation of Distributed Lag (FDL and IDL), comparison of Koyck and RDL estimates
+**8) Hseinv.R**  
++ Wooldridge 5ª Edição, Exemplo 18.1  
++ Objetivo: Estimativa de Lag Distribuído (FDL e IDL), comparação das estimativas de Koyck e RDL
 
 **9) Phillips_AEH**
-+ Wooldridge 5th Edition,  Example 11.5, amended  
-+ Aim: adaptive expectations  
++ Wooldridge 5ª Edição, Exemplo 11.5, alterado  
++ Objetivo: expectativas adaptativas  
 
-**10) SriLanka.R**
+**10) Sri Lanka.R**
 + PAM, AEH, Koyck, RDL
 
 
 --- 
 
-### Seminar & self-study R scripts for Block 2
+### Seminário e scripts R de auto-estudo para o Bloco 2
 
-+ **Barium.R**  
-    + Wooldridge 5th Edition,  Example 10.5, Example 10.11, Example 12.3, Example 12.4.
-    + Aim: repetition of event study, seasonal dummies, testing of serial correlation, FGLS in the case of serial correlation, Cochrane-Orcutt and Prais-Winsten transformation  
++ **Bário.R**  
+    + Wooldridge 5ª Edição, Exemplo 10.5, Exemplo 10.11, Exemplo 12.3, Exemplo 12.4.
+    + Objetivo: estudo de repetição de eventos, dummies sazonais, teste de correlação serial, FGLS no caso de correlação serial, transformação de Cochrane-Orcutt e Prais-Winsten  
 
 + **Phillips3.R**
-    + Wooldridge 5th Edition,  Example 18.8,  Example 18.9,  Example 18.10  
-    + Aim: Chow test, forecasting  
+    + Wooldridge 5ª Edição, Exemplo 18.8, Exemplo 18.9, Exemplo 18.10  
+    + Objetivo: teste de Chow, previsão  
 
 ---
 
-[Homepage](https://formanektomas.github.io/4EK608_4EK416/)
+[Homepage](https://github.com/jr1056/Greene)
