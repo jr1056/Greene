@@ -1,4 +1,4 @@
-## Bloco 5 apresentação e Roteiros do R  
+## Bloco 6 apresentação e Roteiros do R  
 
 Repetição de cursos de Bacharelado
 Destinado ao autoestudo e preparação para o ENADE
