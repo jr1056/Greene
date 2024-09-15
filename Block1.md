@@ -1,18 +1,18 @@
-## Block 1 presentation and R scripts  
+## Bloco 1 apresentação e Roteiros do R  
 
-+ [Download presentation slides for Block 1](https://github.com/formanektomas/4EK608_4EK416/raw/master/Block1/Block1.pdf)
-+ [Download R scripts for Block 1 (zip)](https://github.com/formanektomas/4EK608_4EK416/raw/master/Block1/Block1.zip)
++ [Descarregar as diapositivas de apresentação para o Bloco 1](https://github.com/formanektomas/4EK608_4EK416/raw/master/Block1/Block1.pdf)
++ [Descarregar os roteiros em R para o Bloco 1 (zip)](https://github.com/formanektomas/4EK608_4EK416/raw/master/Block1/Block1.zip)
 
 --- 
 
-### R scripts for seminars - outline of Block 1
+### Roteiros do R para os seminários - esquema do Bloco 1
 
 **1) Attend.Rmd**
-+ [Wooldridge 5th Edition], Example 6.3  
++ [Wooldridge 5ª Edição], Exemplo 6.3  
 + Aim: repetition of models with CS data, interaction elements, marginal effects and their standard errors (reparametrization, Delta method).  
 
 **2) GMM_Estimation.R**
-+ based on: Wooldridge, Introductory Econometrics, (5th ed.) Example 10.9  
++ baseado em: Wooldridge, Eonometria Introdutória, (5ª ed.) Exemplo 10.9  
 + Aim:  MM estimation, GMM estimation of linear models  
 
 **3) MLE_Example.R**
